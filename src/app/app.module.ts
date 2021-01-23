@@ -10,7 +10,7 @@ import { PostComponent } from './post/post.component';
   declarations: [
     AppComponent,
     PostsComponent,
-    PostComponent
+    PostComponent,
   ],
   imports: [
     BrowserModule,
